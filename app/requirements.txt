@@ -1,0 +1,7 @@
+Flask==2.0.1
+Flask-RESTful==0.3.9
+redis
+pandas
+openpyxl
+excel2json
+flask_cors
